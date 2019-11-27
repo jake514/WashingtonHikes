@@ -31,7 +31,7 @@ body{
     justify-content: space-around;
 }
 .photos img{
-    padding-top: 2.5vw;
+    padding-top: 1vw;
     width: 25vw;
     height: 17.5vw;
 }
@@ -43,4 +43,19 @@ body{
 
 .title{
     display: flex;
+}
+
+.journey h3{
+    text-align: center;
+}
+
+table{
+    border: 1px solid black;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+    padding-right: 10px;
+    border-collapse: collapse;
 }
